@@ -7,6 +7,7 @@ What I work on here:
 - **Agent identity and permissions.** Agents that act as the signed-in person, with scoped, auditable access and no shared tokens.
 - **Evidence over opinion.** Controlled, repeatable experiments on agentic harnesses, not demo videos.
 - **Governance you can run.** Validators, registries, and rollout gates that let an enterprise say yes to agents safely.
+- **Modernization with agents.** Agent teams that map, test, and migrate legacy codebases, built on lessons from leading large migrations. See [modernization-agent](https://github.com/chief-builder/modernization-agent).
 
 ## Featured
 
